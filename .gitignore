@@ -1,0 +1,7 @@
+._*
+*.pyc
+.DS_Store
+*.npz
+checkpoint/
+__pycache__/
+bottleneck_features/
