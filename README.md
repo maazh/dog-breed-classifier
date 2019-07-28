@@ -12,7 +12,25 @@ A dog breed classifier trained on RESNET50 archiecture. This repository builds a
 ![Sample Output][image1]
 
 
-## Project Instructions
+### Motivation
+This project is part of my Udacity Data Science Nano degree. It is one of the many projects that simulate real world projects that I would be doing once I graduate. This project involves getting a hands on expericing in the entire Data Science process of creating data pipelines, procesing data, building Machine Learning models and eventually evaluating their perforamce. 
+
+
+### Libraries Used
+
+    1. Keras: To build Machine Learning Models and for preprocessing data. 
+    2. OpenCV: Used for data pre processing and identifiying human faces within images
+    3. sklearn: sklearn libraries and modules were used in multiple preprocessing and evaluation steps. 
+
+
+### Results
+
+This model which was trained on RESNET50 archiecture gives an 81% test accuracy. It is also able to identify humans and dogs with a 100% accuracy and also consists of various ways the model can be further improved to achieve an even greater accuracy. 
+
+### Acknowledgments
+
+All data was obtained through Udacity, the entire project walkthrough was also provided by them and I was able to complete this project due to their relentless guidance and support. Thankyou for all the help provided!
+
 
 ### Instructions
 
