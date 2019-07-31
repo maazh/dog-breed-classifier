@@ -11,8 +11,6 @@ A dog breed classifier trained on RESNET50 archiecture. This repository builds a
 
 Medium article: https://medium.com/@maazhassan2/classifying-dog-breeds-using-deep-learning-e95b7b87a5b1?sk=bbbd177f7054b457568162f3a3addc0f
 
-### Motivation
-This project is part of my Udacity Data Science Nano degree. It is one of the many projects that simulate real world projects that I would be doing once I graduate. This project involves getting a hands on expericing in the entire Data Science process of creating data pipelines, procesing data, building Machine Learning models and eventually evaluating their perforamce. 
 
 
 ### Libraries Used
